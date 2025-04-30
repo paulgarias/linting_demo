@@ -1,6 +1,5 @@
 # Linting Demo
 
-
 In a new or existing pip/conda environment, run:
 
 `pip install flake8`
